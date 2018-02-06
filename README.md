@@ -8,11 +8,11 @@
 .
 ├── LICENSE
 ├── README.md
-├── assets						# 公共资源		
+├── assets                  # 公共资源
 │   ├── images
 │   │   └── topography.svg
 │   └── style.css
-├── colorfule\ black  			# 具体实例
+├── colorfule\ black        # 具体实例
 │   ├── index.html
 │   └── main.css
 └── package.json
