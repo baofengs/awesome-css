@@ -4,9 +4,39 @@
 	<meta charset="UTF-8">
 	<title>colorful black</title>
 	<link rel="stylesheet" href="../assets/style.css">
+	<style>
+		* {
+			padding: 0;
+			margin: 0;
+		}
+		.container {
+			display: flex;
+			justify-content: center;
+		}
+		.item {
+			border-top: 2px solid var(--yellow);
+			border-bottom: 2px solid var(--yellow);
+			padding: 1rem 2rem;
+			margin: 2rem;
+		}
+		.text {
+			font-size: 5rem;
+			font-weight: 500;
+		}
+		.awesome-text {
+		    -webkit-background-clip: text;
+		    -webkit-text-fill-color: transparent;
+			background-image: -webkit-gradient(linear,0% 50%,25% 100%,from(#ff2c2c),to(#7a5e91));
+		}
+	</style>
 </head>
 <body>
-	<h1>colorul black~</h1>
+	<div class="container">
+		<section class="item">
+			<h1 class="text awesome-text">colorful black title</h1>
+			<p class="text awesome-text">awesome</p>
+		</section>
+	</div>
 </body>
 </html>
 
