@@ -3,7 +3,7 @@
 收集一些炫酷的 CSS 效果
 
 - [五彩斑斓黑的标题](https://x-bao.github.io/awesome-css/colorfule%20black/index.html)
-- [旋转](https://x-bao/github.io/rolling/index.html)
+- [旋转](https://x-bao.github.io/rolling/index.html)
 
 ## 项目结构
 
