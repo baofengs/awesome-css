@@ -2,6 +2,9 @@
 
 收集一些炫酷的 CSS 效果
 
+- [五彩斑斓黑的标题](https://x-bao.github.io/awesome-css/colorfule%20black/index.html)
+- [旋转](https://x-bao/github.io/rolling/index.html)
+
 ## 项目结构
 
 ```
@@ -19,6 +22,8 @@
 ```
 
 ## 关于 package.json
+
+只有 *browsersync*，现在是以后也是 
 
 > 参考 [wesbos css-grid](https://github.com/wesbos/css-grid) 中的 package.json
 
